@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Passionatecoder101
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment, but i'll update this if i think of anything!
 - 📫 How to reach me ...
 
